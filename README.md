@@ -1,1 +1,1 @@
-Created this page for Bug Reports and Feedback
+Created this page for Bug Reports
