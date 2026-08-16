@@ -1,0 +1,4 @@
+Sandbox_EN = {
+    Sandbox_ConstructionPlanner_MaterialsPerHaul = "Materials Per Haul",
+    Sandbox_ConstructionPlanner_MaterialsPerHaul_tooltip = "The maximum number of construction materials a player can haul at one time. Higher values increase efficiency but may impact balance.",
+}

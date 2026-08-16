@@ -1,0 +1,7 @@
+version=1
+id=3784726507
+title=Better Building (B42)
+description=In Quick mode or Plan mode,  speed up building projects with improved construction tools, automatic material distribution, bulk dismantling, bulk
+description=destruction, and more.
+tags=Build 42;Building;QoL
+visibility=public

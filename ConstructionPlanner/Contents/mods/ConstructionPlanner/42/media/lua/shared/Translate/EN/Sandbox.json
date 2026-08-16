@@ -1,0 +1,12 @@
+{
+    "Sandbox_ConstructionPlanner": "Construction Planner",
+
+    "Sandbox_ConstructionPlanner_MaterialsPerHaul": "Materials Per Haul",
+    "Sandbox_ConstructionPlanner_MaterialsPerHaul_tooltip": "The maximum number of construction materials the player can carry during one distribution haul.",
+
+    "Sandbox_ConstructionPlanner_PanelOpenMode": "Construction Planner Menu",
+    "Sandbox_ConstructionPlanner_PanelOpenMode_tooltip": "Choose whether the Construction Planner opens automatically with the Build menu or only through its configured hotkey.",
+
+    "Sandbox_ConstructionPlanner_PanelOpenMode_option1": "Open With Build Menu",
+    "Sandbox_ConstructionPlanner_PanelOpenMode_option2": "Hotkey Only"
+}
